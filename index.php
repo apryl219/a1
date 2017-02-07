@@ -12,7 +12,7 @@
 	</div>
 	<div>
 		<h2>About Me</h2>
-		<p class="about">Welcome! I am a teacher on a journey to become a front end web developer. I am a degree candidate for a Masters degree in Digital Media and Design at Harvard Extension School. I am married to my best friend. I have an 11-year-old son, a baby on the way, and a beagle. I live in the Valley of the Sun aka Phoenix, AZ.</p>
+		<p class="about">Welcome! I am a teacher on a journey to become a front end web developer. I am a degree candidate for a Masters degree in Digital Media and Design at Harvard Extension School. I am married to my best friend, Brian. I have an 11-year-old son, a baby on the way, and a beagle. I live in the Valley of the Sun aka Phoenix, AZ.</p>
 	</div>
 
 	<div class="quote">
