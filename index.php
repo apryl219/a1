@@ -8,7 +8,7 @@
 <body>
 	<h1>Apryl Bradford</h1>
 	<div>
-		<img class="img" src="/images/newYork.jpg" alt="Me in New York">
+		<img class="img" src="/images/newYork.JPG" alt="Me in New York">
 	</div>
 	<div>
 		<h2>About Me</h2>
